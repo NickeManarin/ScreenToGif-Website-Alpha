@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 100 96" width="40px" height="39.38"
+	style="enable-background:new 0 0 100 96;" xml:space="preserve">
+	<style type="text/css">
+		.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#F96854;}
+		.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#052D49;}
+	</style>
+	<g>
+		<path class="st0" d="M64.1,0.1c-19.9,0-36,16.2-36,36c0,19.8,16.2,35.9,36,35.9C83.9,72,100,55.9,100,36.1 C100,16.2,83.9,0.1,64.1,0.1"/>
+		<polygon class="st1" points="0,96 17.6,96 17.6,0.1 0,0.1"/>
+	</g>
+</svg>

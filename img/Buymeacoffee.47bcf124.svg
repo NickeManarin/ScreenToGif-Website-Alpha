@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 54.8 80.7" width="54.8" heigth="80.7" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FF9100;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFDD00;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st3{fill:#050505;}
+</style>
+
+<path id="path1_fill" class="st0" d="M27.3,16.9L7.4,16.8l9.8,62.1h2.1h19.5H41l9.8-62.1L27.3,16.9z"/>
+<path id="path2_fill" class="st1" d="M27.3,16.9L7.4,16.8l9.8,62.1h2.1h14.6H36l9.8-62.1L27.3,16.9z"/>
+<path id="path3_fill" class="st2" d="M1.7,16.8H53v-5.7H1.7V16.8z"/>
+<path id="path4_stroke" d="M1.7,16.8H0v1.7h1.7V16.8z M53,16.8v1.7h1.7v-1.7H53z M53,11.1h1.7V9.3H53V11.1z M1.7,11.1V9.3H0v1.7
+    H1.7z M1.7,18.5H53V15H1.7V18.5z M54.8,16.8v-5.7h-3.5v5.7H54.8z M53,9.3H1.7v3.5H53V9.3z M0,11.1v5.7h3.5v-5.7H0z"/>
+<path id="path5_fill" class="st2" d="M43.1,1.7H30.9h-7.3H11.4l-3.7,8.6h16h7.3h16L43.1,1.7z"/>
+<path id="path6_stroke" class="st3" d="M43.1,1.7L44.7,1l-0.5-1h-1.1V1.7z M11.4,1.7V0h-1.1L9.8,1L11.4,1.7z M7.6,10.3L6,9.6
+    L5,12.1h2.7V10.3z M46.9,10.3v1.7h2.7l-1.1-2.4L46.9,10.3z M43.1,0H30.9v3.5h12.2V0z M30.9,0h-7.3v3.5h7.3V0z M23.6,0H11.4v3.5
+    h12.2V0z M9.8,1L6,9.6L9.2,11L13,2.4L9.8,1z M7.6,12.1h16V8.6h-16V12.1z M23.6,12.1h7.3V8.6h-7.3V12.1z M30.9,12.1h16V8.6h-16V12.1
+    z M48.4,9.6L44.7,1l-3.2,1.4l3.7,8.6L48.4,9.6z"/>
+<path id="path7_stroke" d="M27.3,16.9l0,1.7l0,0L27.3,16.9z M3.9,16.8l0-1.7l-2,0l0.3,2L3.9,16.8z M13.6,78.9l-1.7,0.3l0.2,1.5h1.5
+    V78.9z M41,78.9v1.7h1.5l0.2-1.5L41,78.9z M50.7,16.8l1.7,0.3l0.3-2l-2,0L50.7,16.8z M27.3,15.2L3.9,15l0,3.5l23.4,0.1L27.3,15.2z
+        M2.2,17.1l9.8,62.1l3.4-0.5L5.6,16.5L2.2,17.1z M13.6,80.7h2.1v-3.5h-2.1V80.7z M15.8,80.7h23.1v-3.5H15.8V80.7z M38.8,80.7H41
+    v-3.5h-2.1V80.7z M42.7,79.2l9.8-62.1L49,16.5l-9.8,62.1L42.7,79.2z M50.7,15l-23.4,0.1l0,3.5l23.4-0.1L50.7,15z"/>
+<path id="path8_fill" class="st2" d="M51.5,34.3H28.1h-1.7H3l4.4,24.7l19.9-0.2l19.9,0.2L51.5,34.3z"/>
+<path id="path9_stroke" d="M51.5,34.3l1.7,0.3l0.4-2h-2.1V34.3z M3,34.3v-1.7H0.9l0.4,2L3,34.3z M7.4,59.1l-1.7,0.3l0.3,1.5l1.5,0
+    L7.4,59.1z M27.2,58.8l0-1.7l0,0L27.2,58.8z M47.1,59.1l0,1.7l1.5,0l0.3-1.5L47.1,59.1z M51.5,32.6H28.1v3.5h23.4V32.6z M28.1,32.6
+    h-1.7v3.5h1.7V32.6z M26.4,32.6H3v3.5h23.4V32.6z M1.3,34.6l4.4,24.7l3.4-0.6L4.7,34L1.3,34.6z M7.4,60.8l19.9-0.2l0-3.5L7.4,57.3
+    L7.4,60.8z M27.2,60.6l19.9,0.2l0-3.5l-19.9-0.2L27.2,60.6z M48.8,59.4l4.4-24.7L49.7,34l-4.4,24.7L48.8,59.4z"/>
+</svg>
